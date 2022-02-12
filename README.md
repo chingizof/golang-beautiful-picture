@@ -3,9 +3,9 @@ Created a beautiful graphic picture using go
 
 after you open the project install go using homebrew
 
+"brew install go"
 
-
-afterwards, type into terminal go run main.go
+afterwards, type into terminal "go run main.go"
 
 enjoy the graphics 
 
